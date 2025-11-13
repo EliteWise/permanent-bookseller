@@ -1,0 +1,10 @@
+{
+  "Name": "Permanent Bookseller",
+  "Author": "EliteWise",
+  "Version": "1.0.0",
+  "Description": "SMAPI Mod allowing the presence of a bookseller every day instead of twice a month",
+  "UniqueID": "EliteWise.PermanentBookseller",
+  "EntryDll": "PermanentBookseller.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
